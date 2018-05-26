@@ -1,3 +1,0 @@
-"# gradientapp" 
-"# IonicApp" 
-"# IonicApp" 
